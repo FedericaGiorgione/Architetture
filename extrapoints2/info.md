@@ -27,3 +27,6 @@ Implementare un robot conrollabile tramite controller e fornire un'interfaccia g
   
   Schermata finale di vittoria.
 </p>
+
+## Application note
+La spiegazione delle principali funzionalità è disponbile nell'application note.
